@@ -1,0 +1,2 @@
+git remote add origin https://github.com/01145463698/b-chat.git
+git add . && git commit -m "b chat" && git push -u origin main
